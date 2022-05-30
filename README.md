@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @RomanAbeiro
-- 🌱 I’m currently learning arduino, python and JS
+- 🌱 I’m currently learning Arduino, Kotlin, Python and JS
 
 
 <!---
