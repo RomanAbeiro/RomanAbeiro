@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Arduino, Kotlin, Python and JS
+- 
 
 
 <!---
